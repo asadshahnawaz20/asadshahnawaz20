@@ -1,6 +1,7 @@
 <p align="center">
-  <b><font size="20">Hi, I'm Asad Channa 👋</font></b>
+  <strong>Hi, I'm Asad Channa 👋</strong>
 </p>
+
 
 
 ## 🎓 About Me
