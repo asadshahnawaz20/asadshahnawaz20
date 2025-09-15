@@ -1,4 +1,7 @@
-# Hi Waving Hand, I'm Asad Channa 👋
+<p align="center">
+  <b>Hi, I'm Asad Channa 👋</b>
+</p>
+
 
 ## 🎓 About Me
 A BSCS student and Microsoft Learn Student Ambassador from Pakistan, Deep Learning and Computer Vision enthusiast from Pakistan..
