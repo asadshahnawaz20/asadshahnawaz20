@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>Hi, I'm Asad Channa 👋</h1>
-</p>
+  <h1>Hi, I'm Asad Channa 👋</h1></p>
+
 
 
 
